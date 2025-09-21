@@ -9,7 +9,6 @@
 ---
 
 ## 📸 Preview
-_Add a screenshot of your website here:_  
 <img width="1577" height="917" alt="image" src="https://github.com/user-attachments/assets/7de24c7e-6e84-498f-bff9-401c4f943a51" />
 
 ---
