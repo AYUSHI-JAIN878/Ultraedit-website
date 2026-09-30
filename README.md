@@ -1,47 +1,37 @@
-# 🌤️ SkyCast – Weather Forecast App
+# 💻 UltraEdit Website Clone
 
-SkyCast is a modern and responsive weather forecast web application that provides real-time weather information for cities around the world. Users can search for any city and view current weather conditions, detailed weather statistics, and a 7-day forecast.
+A responsive frontend clone of the UltraEdit website created to practice modern web development, responsive layouts, and UI design.
+
+## 📌 About the Project
+
+This project recreates the look and feel of the UltraEdit website with a clean and responsive interface. It focuses on building a professional website layout using frontend technologies while maintaining proper spacing, typography, navigation, cards, buttons, and responsive behavior.
 
 ## ✨ Features
 
-- 🌍 Search weather for cities worldwide
-- 🌡️ Current temperature and weather conditions
-- 🥵 Feels-like temperature
-- 💧 Humidity information
-- 💨 Wind speed
-- 👁️ Visibility details
-- 🌧️ Precipitation information
-- 🌅 Sunrise and sunset timings
-- 📅 7-day weather forecast
-- ⚡ Quick search for popular cities
+- 🖥️ Modern UltraEdit-inspired user interface
 - 📱 Fully responsive design
-- 🎨 Modern gradient and glassmorphism UI
-- 🔄 Loading and error handling
-- 🌐 Real-time weather data using Open-Meteo API
+- 🧭 Responsive navigation bar
+- 💾 Download section
+- 📦 Product and feature sections
+- 🌐 Multi-language download options
+- 🎨 Clean and professional layout
+- 🔗 Navigation links and buttons
+- ⚡ Fast and lightweight frontend
+- 📐 Mobile, tablet and desktop support
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- Open-Meteo API
-- Geocoding API
-
-## 🔌 APIs Used
-
-SkyCast uses the following APIs from Open-Meteo:
-
-- Geocoding API – to search cities and retrieve their coordinates
-- Weather API – to fetch current and forecast weather data
-
-No API key is required.
 
 ## 📂 Project Structure
 
 ```text
-SkyCast-Weather-App/
+UltraEdit-Website/
 │
 ├── index.html
 ├── style.css
 ├── script.js
+├── images/
 └── README.md
