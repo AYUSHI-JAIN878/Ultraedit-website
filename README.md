@@ -1,11 +1,4 @@
 # Ultraedit-website
-
----
-
-## 🌐 Live Demo
-🚀 **Click here to view:**  
-[UltraEdit Clone Website](https://ayushi-jain878.github.io/Ultraedit-website/)
-
 ---
 
 ## 📸 Preview
